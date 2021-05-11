@@ -1,4 +1,12 @@
-### Hi there 👋
+### Hello! 💫
+
+I'm Xenia (he/him), and I'm a Junior College student.
+
+I'm currently focusing on my studies, but enjoy coding when I have time. I sometimes do web development (React) and helped develop a Discord bot (Python). I've also joined a couple of CTFs, though I'm still a noob lol
+
+Here's a picture of my school's fat cat for your viewing pleasure:
+
+<img src="https://user-images.githubusercontent.com/40383042/117833514-fafbfc00-b2a8-11eb-9bf1-c36bba423463.png" width="300" alt="pic of fat cat" />
 
 <!--
 **xeniafiorenza/xeniafiorenza** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +22,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
