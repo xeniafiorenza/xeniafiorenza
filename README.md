@@ -6,7 +6,15 @@ I'm currently focusing on my studies, but enjoy coding when I have time. I somet
 
 Here's a picture of my school's fat cat for your viewing pleasure:
 
-<img src="https://user-images.githubusercontent.com/40383042/117833514-fafbfc00-b2a8-11eb-9bf1-c36bba423463.png" width="300" alt="pic of fat cat" />
+<img src="https://user-images.githubusercontent.com/40383042/117833514-fafbfc00-b2a8-11eb-9bf1-c36bba423463.png" width="250" alt="fat cat" />
+
+___
+
+![Xenia's GitHub stats](https://github-readme-stats.vercel.app/api?username=xeniafiorenza&count_private=true&show_icons=true&theme=omni&include_all_commits=true&hide=stars,issues)
+
+<!--doesn't work:
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=xeniafiorenza&count_private=true&theme=omni)](https://github.com/anuraghazra/github-readme-stats)
+-->
 
 <!--
 **xeniafiorenza/xeniafiorenza** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
