@@ -1,4 +1,4 @@
-### Hello! 💫
+# Hello! 💫
 
 I'm Xenia (he/him), and I'm a Junior College student.
 
@@ -7,6 +7,11 @@ I'm currently focusing on my studies, but enjoy coding when I have time. I somet
 Here's a picture of my school's fat cat for your viewing pleasure:
 
 <img src="https://user-images.githubusercontent.com/40383042/117833514-fafbfc00-b2a8-11eb-9bf1-c36bba423463.png" width="250" alt="fat cat" />
+
+---
+
+## Portfolio
+You can view more information at [my website](https://xeniafiorenza.me).
 
 ___
 
