@@ -11,7 +11,8 @@ Here's a picture of my school's fat cat for your viewing pleasure:
 ---
 
 ## Portfolio
-You can view more information at [my website](https://xeniafiorenza.me).
+* My CTF write-ups can be found [here](https://blog.xeniafiorenza.me).
+* Check out [my webpage](https://xeniafiorenza.me) for the rest of my portfolio!
 
 ___
 
