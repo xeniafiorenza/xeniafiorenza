@@ -1,6 +1,6 @@
 # Hello! 💫
 
-I'm Xe (he/him/his), and I'm a recent A-Level graduate. I enjoy tinkering, solving problems, and learning new things.
+I'm Xenos (he/him/his), and I'm a recent A-Level graduate. I enjoy tinkering, solving problems, and learning new things.
 
 Here's a picture of my old school's fat cat, for your viewing pleasure:
 
@@ -9,8 +9,8 @@ Here's a picture of my old school's fat cat, for your viewing pleasure:
 ---
 
 ## Portfolio
-* My CTF write-ups can be found [here](https://blog.xeniafiorenza.me).
-* Check out [my webpage](https://xeniafiorenza.me) for the rest of my portfolio!
+* My CTF write-ups can be found [here](https://blog.xenosf.io).
+* Check out [my website](https://xenosf.io) for the rest of my portfolio!
 
 ___
 
