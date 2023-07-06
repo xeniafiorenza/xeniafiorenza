@@ -21,6 +21,8 @@ Putu:
 
 ___
 
+![My Tech Stack](https://github-readme-tech-stack.vercel.app/api/cards?align=center&fontFamily=Helvetica+Neue&lineCount=2&bg=%23191622&badge=%23191622&border=%23E1E1E6&titleColor=%23FF79C6&line1=swift%2Cswiftui%2CF05138%3Breact%2Creact%2C61DAFB%3Bexpo%2Cexpo%2CE1E1E6%3B&line2=javascript%2Cjs%2CF7DF1E%3Btypescript%2Cts%2C3178C6%3Bpython%2Cpython%2C3776AB%3B)
+
 ![Xe's GitHub stats](https://github-readme-stats-flax-omega.vercel.app/api?username=xenosf&count_private=true&show_icons=true&theme=omni&include_all_commits=true&hide=stars&rank_icon=github)
 
 ![Top Langs](https://github-readme-stats-flax-omega.vercel.app/api/top-langs/?username=xenosf&theme=omni&layout=pie&exclude_repo=dotvim,nvim-config)
