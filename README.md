@@ -21,6 +21,6 @@ Putu:
 
 ___
 
-![Xe's GitHub stats](https://github-readme-stats.vercel.app/api?username=xenosf&count_private=true&show_icons=true&theme=omni&include_all_commits=true&hide=stars,issues)
+![Xe's GitHub stats](https://github-readme-stats-flax-omega.vercel.app/api?username=xenosf&count_private=true&show_icons=true&theme=omni&include_all_commits=true&hide=stars&rank_icon=github)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=xenosf&theme=omni&layout=compact&exclude_repo=dotvim,nvim-config)](https://github.com/anuraghazra/github-readme-stats)
+![Top Langs](https://github-readme-stats-flax-omega.vercel.app/api/top-langs/?username=xenosf&theme=omni&layout=pie&exclude_repo=dotvim,nvim-config)
